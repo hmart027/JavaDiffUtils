@@ -1,0 +1,2 @@
+# JavaDiffUtils
+JavaDiffUtils familiarization project
